@@ -1,0 +1,7 @@
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\bin\Debug\sample_conditional.exe.config
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\bin\Debug\sample_conditional.exe
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\bin\Debug\sample_conditional.pdb
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\obj\Debug\sample_conditional.csproj.AssemblyReference.cache
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\obj\Debug\sample_conditional.csproj.CoreCompileInputs.cache
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\obj\Debug\sample_conditional.exe
+C:\Users\Johnb\source\repos\sample_conditional\sample_conditional\obj\Debug\sample_conditional.pdb

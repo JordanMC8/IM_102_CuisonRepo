@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36324.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample looping", "sample looping\sample looping.csproj", "{81716649-C165-4398-96DC-87F345CD4ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81716649-C165-4398-96DC-87F345CD4ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81716649-C165-4398-96DC-87F345CD4ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81716649-C165-4398-96DC-87F345CD4ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81716649-C165-4398-96DC-87F345CD4ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95675553-7082-48CB-ACF9-5EE44005BAAA}
+	EndGlobalSection
+EndGlobal

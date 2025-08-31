@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace sample_conditional
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string name, op;
+            int x, y;
+
+            Console.Write("Enter your name: ");
+            name = Console.ReadLine();
+            Console.WriteLine("Hello your name is " + name);
+            Console.WriteLine($"Your name is: {name}");
+
+            Console.Write("Enter number1 ");
+            x = int.Parse(Console.ReadLine());
+            Console.Write("Enter number2 ");
+            y = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"The sum of {x} + {y} {x + y}");
+
+            Console.Write("Operator: ");
+            op = Console.ReadLine();
+
+            if (op == "+")
+            {
+                Console.WriteLine($"The sum of {x} + {y} {x + y}");
+            }
+            else if (op == "-")
+            {
+                Console.WriteLine($"The sum of {x} - {y} {x - y}");
+            }
+            else if (op == "*")
+            {
+                Console.WriteLine($"The sum of {x} * {y} {x * y}");
+            }
+            else if (op == "/")
+            {
+                Console.WriteLine($"The sum of {x} / {y} {x / y}");
+            }
+
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+C:\Users\Johnb\source\repos\sample looping\sample looping\bin\Debug\sample looping.exe.config
+C:\Users\Johnb\source\repos\sample looping\sample looping\bin\Debug\sample looping.exe
+C:\Users\Johnb\source\repos\sample looping\sample looping\bin\Debug\sample looping.pdb
+C:\Users\Johnb\source\repos\sample looping\sample looping\obj\Debug\sample looping.csproj.CoreCompileInputs.cache
+C:\Users\Johnb\source\repos\sample looping\sample looping\obj\Debug\sample looping.exe
+C:\Users\Johnb\source\repos\sample looping\sample looping\obj\Debug\sample looping.pdb
