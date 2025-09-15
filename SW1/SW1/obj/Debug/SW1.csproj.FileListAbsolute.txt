@@ -1,0 +1,7 @@
+C:\Users\Johnb\source\repos\SW1\SW1\bin\Debug\SW1.exe.config
+C:\Users\Johnb\source\repos\SW1\SW1\bin\Debug\SW1.exe
+C:\Users\Johnb\source\repos\SW1\SW1\bin\Debug\SW1.pdb
+C:\Users\Johnb\source\repos\SW1\SW1\obj\Debug\SW1.csproj.AssemblyReference.cache
+C:\Users\Johnb\source\repos\SW1\SW1\obj\Debug\SW1.csproj.CoreCompileInputs.cache
+C:\Users\Johnb\source\repos\SW1\SW1\obj\Debug\SW1.exe
+C:\Users\Johnb\source\repos\SW1\SW1\obj\Debug\SW1.pdb
