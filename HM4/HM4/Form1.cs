@@ -16,7 +16,7 @@ namespace HM4
         {
             InitializeComponent();
         }
-        private string gender = "";
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -32,7 +32,16 @@ namespace HM4
 
         private void button2_Click(object sender, EventArgs e)
         {
-            
+            string gender = "";
+            if (radioButton1.Checked == true)
+            {
+                gender = radioButton1.Text;
+            }
+            else if (radioButton2.Checked == true)
+            {
+                gender = radioButton2.Text;
+            }
+
             Form2 frm2 = new Form2(
                 maskedTextBox1.Text, 
                 textBox1.Text, 
@@ -58,12 +67,12 @@ namespace HM4
 
         private void radioButton1_Click(object sender, EventArgs e)
         {
-            if(radioButton1.Checked)gender = radioButton1.Text;
+           
         }
 
         private void radioButton2_Click(object sender, EventArgs e)
         {
-            if(radioButton1.Checked) gender = radioButton2.Text;
+            
         }
     }
 }
