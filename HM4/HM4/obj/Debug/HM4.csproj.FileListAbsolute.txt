@@ -1,0 +1,11 @@
+C:\Users\Johnb\source\repos\HM4\HM4\bin\Debug\HM4.exe.config
+C:\Users\Johnb\source\repos\HM4\HM4\bin\Debug\HM4.exe
+C:\Users\Johnb\source\repos\HM4\HM4\bin\Debug\HM4.pdb
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.csproj.AssemblyReference.cache
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.Form1.resources
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.Properties.Resources.resources
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.csproj.GenerateResource.cache
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.csproj.CoreCompileInputs.cache
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.exe
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.pdb
+C:\Users\Johnb\source\repos\HM4\HM4\obj\Debug\HM4.Form2.resources
